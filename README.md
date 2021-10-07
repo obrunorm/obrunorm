@@ -14,10 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunorm&layout=compact&langs_count=7&theme=default"/>
   
   <img height="200em" src = "https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif">
-    
-   <br />
-    
-  <!-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+
     
   
   
