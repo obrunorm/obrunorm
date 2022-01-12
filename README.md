@@ -2,7 +2,7 @@
 
 .☕Desenvolvedor Java Junior
 
-.🌈Atualmente estudando na Generation Brasil 
+.🌈Formado no curso da Generation Brasil 
 
 .🔑entusiasta de segurança da informação  
 
