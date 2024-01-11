@@ -4,8 +4,6 @@
 
 .🌈Formado no curso da Generation Brasil 
 
-.🔑entusiasta de segurança da informação  
-
 .💼Pode me encontrar pelo : <a href="https://www.linkedin.com/in/bruno-martins-8667b0180/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
