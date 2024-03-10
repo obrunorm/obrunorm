@@ -46,9 +46,4 @@
     <img align="center" alt="Mongo" height="25" width="70" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="Azure" height="25" width="80" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
   </div>
-
-
-  <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=obrunorm&show_icons=true&theme=tokyonight)
-
-
+  
