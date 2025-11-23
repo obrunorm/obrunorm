@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Bruno! A passionate java and information security student from Brazil..
 
-  - :desktop_computer: 5 years working in the technology area.
+  - :desktop_computer: 3 years working in the technology area.
 
   - <img src="https://github.com/obrunorm/obrunorm/assets/87882015/c733ea42-649c-430d-9dce-653e17cf5014" alt="image" width="20" height="20"> Autism spectrum.
 
