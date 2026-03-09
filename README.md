@@ -1,18 +1,18 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!!</h1></summary>
-</div>
-
 <!-- Presentation -->
-<p>
-  Hi 👋, I'm Bruno! A passionate java and information security student from Brazil..
 
-  - :desktop_computer: 3 years working in the technology area.
+## Hi 👋 I'm Bruno!  
 
-  - <img src="https://github.com/obrunorm/obrunorm/assets/87882015/c733ea42-649c-430d-9dce-653e17cf5014" alt="image" width="20" height="20"> Autism spectrum.
+🎮 Game Developer and Backend Engineer from Brazil.
 
-  -  👨‍💻 To talk with me
+- 🧠 6 years studying software development
+- 💼 4 years working as backend developer (Java / Spring)
+- 🎮 Currently focused on Game Development with Unity and C#
+- 🧩 Interested in gameplay systems, AI and game architecture
+- 🧬 Autism spectrum
+
+
+
+##  👨‍💻 To talk with me
 </p>
 
 <!-- Dropdown -->
@@ -43,5 +43,14 @@
     <img align="center" alt="MYSQL" height="25" width="70" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="Mongo" height="25" width="70" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="Azure" height="25" width="80" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
+
+
+## 🎮 Game Development
+
+<img align="center" alt="Unity" height="25" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img align="center" alt="C#" height="25" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img align="center" alt="Game AI" height="25" src="https://img.shields.io/badge/Game%20AI-blue?style=for-the-badge">
+<img align="center" alt="Game Architecture" height="25" src="https://img.shields.io/badge/Game%20Architecture-orange?style=for-the-badge">
+    
   </div>
   
